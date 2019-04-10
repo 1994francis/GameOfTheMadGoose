@@ -1,5 +1,5 @@
 # GameOfTheMadGoose
-Realized in C++ for the First Year - Computer Science Degree, with unusual roules. Check it if you need some very simple code for beginners.
+Realized in C++ for the First Year - Computer Science Degree, with unusual rules. Check it if you need some very simple code for beginners.
 
 This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
